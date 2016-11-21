@@ -1,4 +1,4 @@
-package tree;
+package com.panand.tree;
 
 public class BTree {
 
