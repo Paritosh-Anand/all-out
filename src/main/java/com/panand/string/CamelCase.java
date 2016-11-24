@@ -1,4 +1,4 @@
-package string;
+package com.panand.string;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
