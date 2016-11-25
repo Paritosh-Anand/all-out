@@ -5,7 +5,6 @@ import java.util.Scanner;
 class IPMatcher {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner in = new Scanner(System.in);
         while(in.hasNext()){
